@@ -1,0 +1,20 @@
+.contenedor { 
+    border: 5px solid blue;
+    background-color: rgb(255, 255, 255);
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    grid-auto-rows: 350px;
+    place-content: center;
+    gap: 5px;
+  
+}
+
+
+.video {
+    
+}
+.title {
+    color: #333;
+    font-size: 3rem;
+   text-align: center;
+}
